@@ -11,7 +11,7 @@ Setup:
 4. run index.js to start the bot (:
 
 
-Note: currently if you restart the program then all new user-added meals will be deleted. I will work on a fix.
+Note: you will have to edit the banned words list in index.js. just ctrl + f and search "urmum". this is where the banned words should go
 
 
 
